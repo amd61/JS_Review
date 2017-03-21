@@ -1,12 +1,12 @@
 // Section 1
 // What types are these?
 
-/* 1.1 */ 1;//  number (integer)
+/* 1.1 */ 1;//  number (stored as floating point)
 /* 1.2 */ "cat";// string
 /* 1.3 */ true;//boolean
 /* 1.4 */ [];// object (array)
 /* 1.5 */ {};// object
-/* 1.6 */ 1.1;//number (float)
+/* 1.6 */ 1.1;//number (stored as floating point)
 /* 1.7 */ var myVariable;// undefined (variable)
 
 
